@@ -105,8 +105,8 @@ if counter==0{
                             
                         
                         
-                            print(self.totaldistance)
-                            print(self.totalduration)
+                        //    print(self.totaldistance)
+                          //  print(self.totalduration)
                 }
         
      
